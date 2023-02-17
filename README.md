@@ -34,7 +34,7 @@ Mockito allows developers to verify the behavior of the system under test (SUT) 
 | MVN Repository | [https://mvnrepository.com/search?q=mockito](https://mvnrepository.com/search?q=mockito) |
 | All Classes and Interfaces | [https://javadoc.io/doc/org.mockito/mockito-core/latest/allclasses-index.html](https://javadoc.io/doc/org.mockito/mockito-core/latest/allclasses-index.html) |
 | documentation | [https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html) |
-| 
+
 
 ## JaCoCo - Java Code Coverage Library
 
