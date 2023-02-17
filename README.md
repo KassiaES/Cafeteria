@@ -1,4 +1,4 @@
-# Cafeteria // colocar animação café
+# Cafeteria
 Java program with all tests and 90% coverage
 
 
